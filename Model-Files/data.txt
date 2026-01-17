@@ -1,0 +1,169 @@
+Walk1_1:
+CONF_THRESH = 0.6
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.5)
+skipped_frame = 6
+==Final Counts==
+Objects: 73
+Danger: 0
+FPS: 14.35
+Time: 1m22.5
+
+Walk1_2:
+CONF_THRESH = 0.85
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.5)
+skipped_frame = 6
+==Final Counts==
+Objects: 18
+Danger: 0
+FPS: 15.04
+Time: 1m9.7
+
+Walk1_3:
+CONF_THRESH = 0.85
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.5)
+skipped_frame = 6
+==Final Counts==
+Objects: 73
+Danger: 2
+FPS: 15.04
+Time: 1m21.4
+Most accurate****
+
+Walk1_4:
+CONF_THRESH = 0.3
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.75)
+skipped_frame = 6
+==Final Counts==
+Objects: 73
+Danger: 1
+FPS: 14.80
+Time: 1m19.9
+
+Walk1_5:
+CONF_THRESH = 0.6
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.6)
+skipped_frame = 5
+==Final Counts==
+Objects: 73
+Danger: 1
+FPS: 14.80
+Time: 1m19.9
+
+Walk2_1:
+CONF_THRESH = 0.3
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.75)
+skipped_frame = 6
+==Final Counts==
+Objects: 131
+Danger: 12
+FPS: 14.38
+Time: 1m33.1
+
+Walk2_2:
+CONF_THRESH = 0.3
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.6)
+skipped_frame = 6
+==Final Counts==
+Objects: 131
+Danger: 12
+FPS: 14.72
+Time: 1m27.8
+
+Walk2_3:
+CONF_THRESH = 0.6
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.6)
+skipped_frame = 6
+==Final Counts==
+Objects: 131
+Danger: 12
+FPS: 14.72
+Time: 1m27.8
+
+Walk2_4:
+CONF_THRESH = 0.6
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.6)
+skipped_frame = 6
+==Final Counts==
+Objects: 131
+Danger: 5
+FPS: 14.32
+Time: 1m21.4
+More accurate****
+
+Walk2_5:
+CONF_THRESH = 0.6
+MIN_AREA = 0.04
+MAX_CENTER_Y = int(h * 0.6)
+skipped_frame = 5
+==Final Counts==
+Objects: 131
+Danger: 19
+FPS: 15.07
+Time: 1m21.2
+
+Drive1_1:
+CONF_THRESH = 0.6
+MIN_AREA = 0.04
+MAX_CENTER_Y = int(h * 0.6)
+skipped_frame = 6
+==Final Counts==
+Objects: 199
+Danger: 10
+FPS: 14.70
+Time: 4m53.4
+
+Drive1_2:
+CONF_THRESH = 0.6
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.6)
+skipped_frame = 6
+==Final Counts==
+Objects: 464
+Danger: 27
+FPS: 14.70
+Time: 6m6.8
+most accurate*****
+
+
+Drive1_3:
+CONF_THRESH = 0.3
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.6)
+skipped_frame = 6
+==Final Counts==
+Objects: 464
+Danger: 27
+FPS: 14.49
+Time: 5m32.2
+
+Drive1_4:
+CONF_THRESH = 0.85
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.6)
+skipped_frame = 6
+==Final Counts==
+Objects: 253
+Danger: 10
+FPS: 14.06
+Time: 4m59.3
+most accurate*****
+
+Drive1_5:
+CONF_THRESH = 0.85
+MIN_AREA = 0.02
+MAX_CENTER_Y = int(h * 0.6)
+skipped_frame = 5
+==Final Counts==
+Objects: 464
+Danger: 162
+FPS: 12.15
+Time: 6m4.0
